@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity implements ProductViewInterf
 
     //The MainActivity (Java Class) present the controller in (MVC Architecture)
 
-    int number;
     public TextView txt;
     public Button btn;
     ProductPresenter presenter;
